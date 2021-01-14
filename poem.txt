@@ -1,4 +1,4 @@
-Rainbow and unicorn Poem
+Rainbow and unicorn and pony Poem
 Purple
 Pink
 Orange
@@ -6,6 +6,7 @@ Blue
 Green
 Unicorn
 Yellow
+pony
 Red
 These are the colors of the Rainbow
 And the unicorn
